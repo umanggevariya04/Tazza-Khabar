@@ -1,0 +1,36 @@
+#navbar{
+    background-color: aquamarine;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+li{
+    list-style:none;
+    display:inline-block;
+    padding: 10px 10px 10px 10px;
+    
+}
+ul{
+    padding: 0;
+    margin: 0;
+    
+}
+.img-1{
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.b1{
+    padding-top: 5vh;
+}
+.b2{
+    padding-top: 5vh;
+}
+.b3{
+    padding-top: 3vh;
+}
+.foot li{
+    display: block;
+}
